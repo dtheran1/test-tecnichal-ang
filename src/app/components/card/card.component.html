@@ -1,0 +1,23 @@
+<div class="card" style="width: 18rem;">
+  <img src="../../../assets/Pikachu.webp" class="card-img-top" [alt]="pokemon.name">
+  <div class="card-body">
+    <span class="btn btn-sm float-end" [ngClass]="{
+      'btn-success': pokemon.name.toLowerCase().includes('pi'),
+      'btn-danger': !pokemon.name.toLowerCase().includes('pi')
+    }" >
+      {{ pokemon.name }}
+    </span>
+
+    <h5 class="card-title">{{ pokemon.name.toUpperCase() }}</h5>
+    <p class="card-text">{{ pokemon.url.split('/')[5] }}/p>
+
+    <div class="row text-left">
+      <p class="text-muted">Occupation</p>
+      <hr />
+
+      <div>
+        <strong>&bull; {{ pokemon.name }}</strong>
+      </div>
+    </div>
+  </div>
+</div>
