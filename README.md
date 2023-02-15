@@ -1,5 +1,5 @@
 # Pokemons
-git remote add origin https://github.com/dtheran1/test-tecnichal-ang.git
+![image](https://user-images.githubusercontent.com/83596975/219097267-64579272-5a93-4c53-8d35-1cb608c779fc.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
