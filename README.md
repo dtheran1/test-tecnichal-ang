@@ -1,6 +1,9 @@
 # Pokemons
 ![image](https://user-images.githubusercontent.com/83596975/219097267-64579272-5a93-4c53-8d35-1cb608c779fc.png)
 
+![image](https://user-images.githubusercontent.com/83596975/219097582-1b1ca410-ab20-4991-bc7d-51b621c0559c.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
 ## Development server
